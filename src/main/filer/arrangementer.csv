@@ -1,0 +1,5 @@
+Lokale_Navn, Lokale_Type, Lokale_Plasser, Kontaktperson_Fornavn, Kontaktperson_Etternavn, Kontaktperson_Email, Kontaktperson_Telefonnummer, Kontaktperson_Virksomhet, Kontaktperson_Nettside, Kontaktperson_Opplysninger, Navn, Dato, Artist, Varighet, Program, Utsolgt
+Superb,Kinosal,45,Turid,Larsen,ostepop@gmail.no,98576622,Turid AS,www.ostepop.no,Daglig leder i Ostepop Partiet.,Hakkebakeskogen,2019-06-08,Donald Duck; Tone Damli,90,Film,false
+Superb,Kinosal,45,Simen,Bråten,simen@gmail.com,23564398,Simen Bråten AS,www.simensimen.no,Jobber for Oslo barneteater,BirdBox,2019-05-30,Angelina Jolie,120,Film,false
+Klangen,Teatersal,150,Petter,Pettersen,soppstuing@hotmail.no,87564523,Orkla,www.orkla.com,Er ansvarlig for soppstuingene til Orkla,Nøtteknekkeren,2019-12-26,Julenissen og co.,90,Teater,false
+Dovregubben,Forsamlingssal,70,Håkon,Berg,haakon@gmail.no,98657722,Hååki Teater,www.haaki.no,Skuespiller for Hååki teater,Valgkamp 2019,2019-05-18,Erna Solberg og Jens Stoltenberg,60,Politikk,false
